@@ -95,8 +95,8 @@ const App = () => {
                 data-aos-delay="400"
                 style={{ fontSize: "15px" }}
               >
-                Discover new distination with our app. <br /> find new place
-                where pass your vacation
+                Discover new destinations in our app. From new places for your
+                vacations to the most exciting events around at the best price.
               </h2>
               <div data-aos="fade-up" data-aos-delay="600">
                 <div className="text-center text-lg-start">
@@ -158,8 +158,9 @@ const App = () => {
                       fontWeight: "700",
                     }}
                   >
-                    Get your chance to see the most incredible concert
-                    <br /> or events nearby you.
+                    Get your chance to see the most incredible concert or events
+                    nearby you and all around the world. Easy booking and
+                    skip-the-line tickets on your smartphone.
                   </p>
                   <div className="text-center float-right">
                     <a
@@ -170,6 +171,12 @@ const App = () => {
                       <i className="bi bi-arrow-right"></i>
                     </a>
                   </div>
+                  <p style={{ color: "white" }}>
+                    <b>
+                      Book tickets for concerts, sports, outdoor events, shows
+                      and many more.
+                    </b>
+                  </p>
                 </div>
               </div>
             </div>
@@ -186,8 +193,8 @@ const App = () => {
                     <span style={{ color: "aqua" }}> Travel Tickets</span>
                   </h1>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry.{" "}
+                    Book flight ticket to hotels with ease at a cost-effective
+                    price, with 24x7 assistance. So, why go anywhere else?
                   </p>
                   <div className="text-center float-right">
                     <div
@@ -209,6 +216,12 @@ const App = () => {
                       </a>
                     </div>
                   </div>
+                  <p>
+                    <b>
+                      Book tickets for bus, trains, flights, cars, hotels with
+                      ease and flexibility.
+                    </b>
+                  </p>
                 </div>
               </div>
 
@@ -233,8 +246,9 @@ const App = () => {
                     experiencs
                   </h1>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry.{" "}
+                    Get the best experiences at museums and attractions
+                    worldwide, Payxmi has a ticket for everyone, with options
+                    for flexible cancellation.
                   </p>
                   <div className="text-center float-right">
                     <div
@@ -255,6 +269,10 @@ const App = () => {
                         <i className="bi bi-arrow-right"></i>
                       </a>
                     </div>
+                    <p>
+                      Book tickets for museums, art galleries, tourist
+                      attraction, sightseeing, amusement parks and many more.
+                    </p>
                   </div>
                 </div>
               </div>
