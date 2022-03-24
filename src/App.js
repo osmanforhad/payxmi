@@ -3,8 +3,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
 import "./App.css";
 import heroImage from "./components/img/hero-img.png";
-import aboutImage from "./components/img/about.jpg";
-import featureImage from "./components/img/features.png";
+import aboutImage from "./components/img/magnificent.png";
+import featureImage from "./components/img/Museums.png";
+import bookingImage from "./components/img/booking.png";
 
 const App = () => {
   return (
@@ -116,7 +117,7 @@ const App = () => {
               data-aos-delay="200"
             >
               <div className="multiimage1">
-                <img src={heroImage} className="img-fluid" />
+                <img src={heroImage} className="img-fluid" style={{marginBottom:"10px"}}/>
               </div>
             </div>
           </div>
@@ -226,7 +227,7 @@ const App = () => {
               </div>
 
               <div className="col-lg-6">
-                <img src={featureImage} className="img-fluid" alt="" />
+                <img src={bookingImage} className="img-fluid" alt="" style={{marginLeft:"300px"}}/>
               </div>
             </div>
           </div>

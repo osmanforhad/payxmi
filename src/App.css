@@ -28,11 +28,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .multiimage1 {
-  padding: 30px;
+  padding: 3px;
   background: 
-   url(../public/assets/img/path2988.png) bottom center no-repeat,
+   /* url(../public/assets/img/path2988.png) bottom center no-repeat, */
    url(../public/assets/img/path2988.png) no-repeat; 
-   background-size: 290px 200px;
+   background-size: 490px 300px;
+   margin-left: 200px;
 }
 
 /*--------------------------------------------------------------
